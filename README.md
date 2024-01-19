@@ -1,2 +1,2 @@
 # Practicing Git
-I am practicing Git
+I am practicing Git. Thank you.
